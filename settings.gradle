@@ -1,1 +1,2 @@
-include ':app', ':weixinlogin', ':weixinlogin1', ':weixin1', ':app1'
+include ':app', ':viewdragerhelper', ':design', ':videophotolook'
+include ':viewdraghelper'

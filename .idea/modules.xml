@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Dragger2Hgwxr.iml" filepath="$PROJECT_DIR$/Dragger2Hgwxr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/design/design.iml" filepath="$PROJECT_DIR$/design/design.iml" />
+      <module fileurl="file://$PROJECT_DIR$/videophotolook/videophotolook.iml" filepath="$PROJECT_DIR$/videophotolook/videophotolook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewdragerhelper/viewdragerhelper.iml" filepath="$PROJECT_DIR$/viewdragerhelper/viewdragerhelper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewdraghelper/viewdraghelper.iml" filepath="$PROJECT_DIR$/viewdraghelper/viewdraghelper.iml" />
+    </modules>
+  </component>
+</project>

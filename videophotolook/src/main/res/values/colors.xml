@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="transparent">#99000000</color>
+
+    <color name="loading_color">#794d4d</color>
+    <color name="pre_loading_color">#917474</color>
+    <color name="play_complete_color">#7e7e7e</color>
+</resources>
